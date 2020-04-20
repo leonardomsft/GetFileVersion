@@ -30,7 +30,7 @@ GetFileVersion displays both the fixed and the variable portions:
 
 
 
-#References
+# References
 
 GetFileVersionInfoA function
 https://docs.microsoft.com/en-us/windows/win32/api/winver/nf-winver-getfileversioninfoa
